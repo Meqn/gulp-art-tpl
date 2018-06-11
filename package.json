@@ -1,0 +1,38 @@
+{
+  "name": "gulp-art-tpl",
+  "version": "1.0.0",
+  "description": "a gulp plugin for art-template",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengqing723/gulp-art-tpl.git"
+  },
+  "keywords": [
+    "gulp",
+    "art-template",
+    "template",
+    "html-template",
+    "html"
+  ],
+  "author": "Mervin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mengqing723/gulp-art-tpl/issues",
+    "email": "mengqing723@gmail.com"
+  },
+  "homepage": "https://github.com/mengqing723/gulp-art-tpl#readme",
+  "engines": {
+    "node": ">=6.4"
+  },
+  "dependencies": {
+    "art-template": "^4.12.2",
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3"
+  }
+}
