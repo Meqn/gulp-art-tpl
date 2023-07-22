@@ -1,7 +1,7 @@
 {
   "name": "gulp-art-tpl",
-  "version": "1.3.0",
-  "description": "a gulp plugin for art-template. 用于解析 art-template 模板引擎语法的gulp插件.",
+  "version": "1.3.1",
+  "description": "A gulp plugin for art-template. 解析 art-template 模板引擎语法的gulp插件.",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
@@ -17,6 +17,8 @@
     "gulp",
     "art-template",
     "template",
+    "artTemplate",
+    "template-engine",
     "html-template",
     "html"
   ],
